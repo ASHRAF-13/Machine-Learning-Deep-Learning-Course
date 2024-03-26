@@ -1,0 +1,2 @@
+Medium Link - https://medium.com/@ashrafiron505/deciphering-natures-palette-crafting-a-decision-tree-for-mushroom-edibility-prediction-82f7aa9345af
+GITHUB link - https://github.com/ASHRAF-13/Machine-Learning-Deep-Learning-Course
