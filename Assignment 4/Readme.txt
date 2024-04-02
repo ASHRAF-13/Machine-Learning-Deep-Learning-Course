@@ -1,0 +1,2 @@
+Medium Link - https://medium.com/@ashrafiron505/unraveling-the-colors-a-journey-through-k-means-clustering-and-image-compression-33cfee96a4b8
+Github link - https://github.com/ASHRAF-13/Machine-Learning-Deep-Learning-Course
