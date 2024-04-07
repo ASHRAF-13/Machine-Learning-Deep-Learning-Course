@@ -1,0 +1,2 @@
+Github Link - https://github.com/ASHRAF-13/Machine-Learning-Deep-Learning-Course
+Medium Link - https://medium.com/@ashrafiron505/unlocking-movie-magic-building-your-own-collaborative-filtering-movie-recommender-system-c339f4945f56
